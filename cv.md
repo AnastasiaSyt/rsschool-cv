@@ -26,3 +26,19 @@ function highAndLow(numbers){
   return `${Math.max(...numbers)} ${Math.min(...numbers)}`;
 }
 ```
+## Experience:
+* Graphic design - packaging and label (since 2012)
+* UX/UI design (since 2021)
+* Java Script (since 2022)
+
+## Education:
+* **University:** Belarusian National Technical University 
+* **Courses:**
+   * Yandex Practicum - UX/UI design (2021)
+   * RS Schools Course «JavaScript/Front-end. Stage 0»
+   * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+   
+## Languages:
+* Belorussian: native speaker
+* Russian: native speaker
+* English: B1 (B2 in progress)
